@@ -1,11 +1,23 @@
 {
- "name": "Knowledge Graph Coin",
- "website": "http://www.gzaiengine.com",
- "description": "World culture and multi universe knowledge base, KGC is used for knowledge payment and cultural reward.",
- "explorer": "https://bscscan.com/token/0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de",
+ "name": "VEKTOR Token",
+ "website": "https://www.crypto-vektor.com/index.php/vektor-token",
+ "description": "VEKTOR is the project token of the Vektor crypto mentoring group. 
+This is an essential part of the range of services and also serves 
+to visualize the individual project packages. We make our possibilities 
+and experience available as a real product and interweave it directly with 
+our portfolio, thereby enabling all investors and holders to participate 
+in the overall success of the project. 
+
+The fusion through implementation, application and benefit is a basic economic factor 
+for project success. Especially through the application of the mentoring process, 
+we can positively influence the course of projects and thus ensure an impact in the 
+development process. Our mission is to establish more value-added projects and thus 
+generate a sustainable impact on the development of blockchain adoption.
+",
+ "explorer": "https://www.bscscan.com/token/0xf2da079867785018e6d823dd0ff332f05aafe485",
  "type": "BEP20",
- "symbol": "kgc",
- "decimals": 8,
+ "symbol": "VEKTOR",
+ "decimals": 9,
  "status": "active",
- "id": "0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de"
+ "id": "0xf2da079867785018e6d823dd0ff332f05aafe485"
 }
